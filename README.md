@@ -7,5 +7,5 @@ Specifically, adds support for the following tags and attributes:
 	<content select=""></content>
 	<decorator>
 	<template>
-	<element extends="">
+	<element extends="" constructor="">
 	<x-{new custom element name}>
