@@ -9,3 +9,4 @@ Specifically, adds support for the following tags and attributes:
 	<template>
 	<element extends="" constructor="">
 	<x-{new custom element name}>
+	<div is="x-{element extended from div}"/>
